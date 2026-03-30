@@ -1,6 +1,6 @@
 #
 # Healthycloud Test Suite
-XXXXXXXXXXXXX
+
 
 ## QA Automation Framework - Feature Overview
 This QA automation framework is built on Playwright and designed for scalable, maintainable, and CI/CD-friendly end-to-end testing.
