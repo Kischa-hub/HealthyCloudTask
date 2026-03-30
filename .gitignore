@@ -1,0 +1,10 @@
+node_modules/
+/test-results/
+/playwright-report/
+/blob-report/
+/playwright/.cache/
+/Jsonfile-Parser-tool/
+/tests/dropdown/
+/tests/api/
+/allure-report/
+/allure-results/

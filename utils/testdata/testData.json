@@ -1,0 +1,18 @@
+{
+  
+  "Profileinstellungen": {
+    "Vorname": "Mario",
+    "Nachname": "Muller",
+    "Straße":"Karl Marx , 20",
+    "Postleitzahl":"14772",
+    "Ort":"Potsdam",
+    "Telefone":"017800000",
+    "email":"temp@mysite.com",
+    "email_wiederholen":"temp@mysite.com"
+  },
+  "PopupMessage":{
+    "Hilfe":"Du hast noch kein Passwort für den Zugang zur ChampionsClub Welt? ",
+    "Passwordvergessen":"Bitte wende dich an das Service-Telefon unter der Nummer:"
+  }
+}
+
