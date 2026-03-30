@@ -113,8 +113,8 @@ variables:
 
 ### 1. Clone the Repository
 ```bash
-git clone https://gitlab.endava.com/vwfs/vwfs-e2e-playwright.git
-cd vwfs-e2e-playwright
+git clone https://github.com/Kischa-hub/HealthyCloudTask.git
+cd Healthycloud-e2e-playwright
 ```
 
 ### 2. Install Dependencies
